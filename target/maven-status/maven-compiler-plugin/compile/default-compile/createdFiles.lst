@@ -1,0 +1,7 @@
+cogmentocrmApp\QA\Base\CRM_TestBase.class
+cogmentocrmApp\QA\Util\CRM_TestUtil.class
+cogmentocrmApp\QA\ExtentReportListener\ExtentReport.class
+cogmentocrmApp\QA\Pages\CRM_ContactsPage.class
+cogmentocrmApp\QA\Pages\CRM_HomePage.class
+cogmentocrmApp\QA\Pages\CRM_LogInPage.class
+cogmentocrmApp\QA\Pages\CRM_CompaniesPage.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name = "cogmentocrmApp.QA.ExtentReportListener.ExtentReport"/>
+</listeners>
+
+  <test thread-count="1" name="Test">
+    <classes>
+     
+      <class name="cogmentocrmApp.QA.TestCases.CRM_ContactsTest"/>   
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
